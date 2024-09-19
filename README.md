@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer Science Student  
 
 - 👨‍💻 I’m currently working on Internet Of Things.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
