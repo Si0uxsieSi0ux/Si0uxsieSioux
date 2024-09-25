@@ -1,17 +1,15 @@
 # Hi there, I'm Octavio 
-
-<img align="right" alt="GIF" height="170px" src="https://i.gifer.com/8Yyg.gif" />
-
 ## I'm a Computer Science Student  
 
 - 👨‍💻 I’m currently working on Internet Of Things.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
 
+<img align="right" alt="GIF" height="170px" src="https://i.gifer.com/8Yyg.gif" />
+
+
 
 ---
-![Analog Glitch GIF](https://media.giphy.com/media/VLzbEtlbwJUFljcRbf/giphy.gif)
 
-<img align="right" alt="GIF" height="170px" src="[[https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif](https://i.gifer.com/8Yyg.gif](https://i.gifer.com/8Yyg.gif))" />
 
 ### Spotify Playing 🎧
 
