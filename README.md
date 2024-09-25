@@ -3,7 +3,9 @@
 
 - 👨‍💻 I’m currently working on Internet Of Things.
 - 📚 I’m currently learning everything about Frontend and Backend technologies
+
 <img align="right" alt="GIF" height="170px" src="https://i.gifer.com/8Yyg.gif" />
+
 <br />
 
 ---
