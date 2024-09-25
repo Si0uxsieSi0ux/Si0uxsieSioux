@@ -1,5 +1,6 @@
 # Hi there, I'm Octavio 
 
+<img align="right" alt="GIF" height="170px" src="https://i.gifer.com/8Yyg.gif" />
 
 ## I'm a Computer Science Student  
 
