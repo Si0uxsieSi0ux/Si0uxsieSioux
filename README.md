@@ -1,7 +1,7 @@
 <!-- Contenedor 1: Información personal -->
 <h1>Hi there, I'm Octavio</h1>
 <h2>I'm a Computer Science Student</h2>
-<img align="right" alt="GIF" height="270px" src="https://i.gifer.com/8Yyg.gif" />
+
 
 <ul>
   <li>👨‍💻 I’m currently working on Internet Of Things.</li>
