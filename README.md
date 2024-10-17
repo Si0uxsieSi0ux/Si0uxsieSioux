@@ -20,5 +20,11 @@
   </a>
 </div>
 <br>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=paprikadreamdetective&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/paprikadreamdetective/paprikadreamdetective/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
