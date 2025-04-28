@@ -70,7 +70,7 @@
     <img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" alt="Latex" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="80" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="50" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/> 
