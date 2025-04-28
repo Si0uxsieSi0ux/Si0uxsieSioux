@@ -68,6 +68,9 @@
   </a> 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" alt="Latex" width="40" height="40"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="Flask" width="40" height="40"/> 
   </a> 
 </p>
 <br>
