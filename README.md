@@ -67,7 +67,7 @@
     <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="lisp" width="40" height="40"/> 
   </a> 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="Latex" width="40" height="40"/> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg" alt="Latex" width="40" height="40"/> 
   </a> 
 </p>
 <br>
