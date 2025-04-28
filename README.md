@@ -64,7 +64,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
   <a href="https://common--lisp-net.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="lisp" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="Latex" width="40" height="40"/> 
   </a> 
 </p>
 <br>
